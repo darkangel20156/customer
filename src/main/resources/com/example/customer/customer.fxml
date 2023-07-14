@@ -98,8 +98,8 @@
                                  </font>
                               </Label>
                               <FontAwesomeIcon glyphName="USER" layoutX="23.0" layoutY="24.0" size="1.2em" />
-                              <TextField fx:id="search_customer_txt" layoutX="858.0" layoutY="7.0" prefHeight="24.0" prefWidth="192.0" />
-                              <FontAwesomeIcon glyphName="SEARCH" layoutX="833.0" layoutY="23.0" />
+                              <TextField fx:id="search_customer_txt" layoutX="860.0" layoutY="3.0" prefHeight="24.0" prefWidth="192.0" styleClass="add_textfield" stylesheets="@InformationView/DesignDashBroard.css" />
+                              <FontAwesomeIcon glyphName="SEARCH" layoutX="837.0" layoutY="23.0" />
                            </children></AnchorPane>
                         <AnchorPane layoutY="38.0" prefHeight="680.0" prefWidth="1060.0" styleClass="bg-white" stylesheets="@custormer.css">
                            <children>

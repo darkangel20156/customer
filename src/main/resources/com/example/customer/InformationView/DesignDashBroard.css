@@ -97,8 +97,8 @@
     -fx-font-size: 14px;
 }
 .add_textfield:focused {
-    -fx-border-color:#ae2d3c;
-    -fx-border-width: 5px;
+    -fx-border-color:#35529d;
+    -fx-border-width: 2px;
 }
 .insert_btn{
     -fx-background-color:#3150a1;
